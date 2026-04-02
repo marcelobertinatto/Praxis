@@ -32,7 +32,7 @@ It is designed with:
 
 # How to Run
 
-## Option 1 — Run with Docker (Recommended)
+## Run with Docker
 
 ### 1. Prerequisites
 
