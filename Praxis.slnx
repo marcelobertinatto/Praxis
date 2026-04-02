@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="API/Praxis.API/Praxis.API.csproj" />
+  </Folder>
+  <Folder Name="/Features/" />
+  <Folder Name="/Features/Stories/">
+    <Project Path="Praxis.Features.Stories/Praxis.Features.Stories.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Praxis.Infra/Praxis.Infra.csproj" />
+  </Folder>
+</Solution>
